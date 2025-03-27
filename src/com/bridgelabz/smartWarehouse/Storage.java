@@ -20,4 +20,4 @@ public class Storage<T extends  WareHouseItem> {
     public List<T> getItems() {
         return items;
     }
-
+}
