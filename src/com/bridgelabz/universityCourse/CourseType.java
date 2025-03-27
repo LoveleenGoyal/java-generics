@@ -1,6 +1,7 @@
 package com.bridgelabz.universityCourse;
 
-public abstract class CourseType {
+public
+abstract class CourseType {
     private String courseName;
 
     public CourseType(String courseName) {
