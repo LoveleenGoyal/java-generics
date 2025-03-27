@@ -28,4 +28,4 @@ public class CourseManager {
     public void removeCourse(String name) {
         courses.removeIf(course -> course.getCourseType().getCourseName().equalsIgnoreCase(name));
     }
-
+}
