@@ -25,4 +25,4 @@ public class UniversityManagement {
         System.out.println("\nCourses after removal:");
         manager.displayCourses();
     }
-
+}
