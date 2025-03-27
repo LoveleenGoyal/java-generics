@@ -31,4 +31,4 @@ public class Product<T extends Category> {
     public String toString() {
         return "Product: " + name + ", Price: " + price + ", Category: " + category.getClass().getSimpleName();
     }
-
+}
